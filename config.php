@@ -2,7 +2,7 @@
 $ADMIN_INFO = NULL;
 $DEFAULT_KEYBOARD = NULL;
 // Update your base url.
-define("BASE_URL", "");
+define("BASE_URL", "http://chunjaeedu.azurewebsites.net/");
 // Only access kakao server or not.
 define("IP_CHECK", TRUE);
 // Show all warnings or not.
